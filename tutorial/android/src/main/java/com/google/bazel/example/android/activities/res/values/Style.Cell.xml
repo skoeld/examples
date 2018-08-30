@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+     <style name="Cell">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/cell_height</item>
+        <item name="android:paddingLeft">@dimen/cell_margin</item>
+        <item name="android:paddingRight">@dimen/cell_margin</item>
+    </style>
+ </resources>
+ 
